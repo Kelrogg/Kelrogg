@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kelrogg ☯︎
-- 👀 I’m interested in World of Warcraft
-- 🌱 I’m currently learning C, C++, Assembler
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Godot
+- 🌱 I’m currently learning C++
 
 <!---
 Kelrogg/Kelrogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
