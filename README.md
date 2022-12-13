@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kelrogg
+- 👋 Hi, I’m @Kelrogg ☯︎
 - 👀 I’m interested in World of Warcraft
 - 🌱 I’m currently learning C, C++, Assembler
 - 💞️ I’m looking to collaborate on ...
